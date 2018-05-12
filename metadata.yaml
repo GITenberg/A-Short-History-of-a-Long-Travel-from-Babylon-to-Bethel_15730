@@ -1,0 +1,36 @@
+_repo: A-Short-History-of-a-Long-Travel-from-Babylon-to-Bethel_15730
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crisp, Stephen
+    aliases:
+    - Crisp, Steven
+    - Crispe, Stephen
+    birthdate: 1628
+    deathdate: 1692
+    gutenberg_agent_id: '6232'
+    url: http://www.gutenberg.org/2009/agents/6232
+  editor:
+    agent_name: Brinton, Anna Cox
+    aliases:
+    - Cox, Anna Shipley
+    - Brinton, Anna Shipley Cox
+    gutenberg_agent_id: '39004'
+    url: http://www.gutenberg.org/2009/agents/39004
+description: ''
+gutenberg_issued: '2005-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Society of Friends -- Doctrines -- Early works to 1800'
+title: A Short History of a Long Travel from Babylon to Bethel
+url: http://www.gutenberg.org/ebooks/15730
